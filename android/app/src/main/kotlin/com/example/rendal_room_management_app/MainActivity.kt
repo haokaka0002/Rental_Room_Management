@@ -1,0 +1,5 @@
+package com.example.rendal_room_management_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
